@@ -1,8 +1,8 @@
 # Introduction
-Hello this is SoloWorks we are people that prioritize on making easy to use applications and 2D games
+Hello we are LowSoftArts people that prioritize on making easy to use applications and 2D games
 
 # About Fn1ky
 Hello i am Fn1ky aka Mark a independent developer that makes games such as  Ship shooter with basic visuals i make 2D games and easy to use applications hope you join the journey of Fn1ky.Io
 
 # Founding
-Officially founded June 28 2025 by Mark
+Officially founded on June 28 2025 by Mark
